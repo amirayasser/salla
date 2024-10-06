@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/salla/static/css/main.921c85c9.css",
+    "main.js": "/salla/static/js/main.271a0d10.js",
+    "static/media/u1GwprK5yFRK0UsCdKzY2MWG8nJpRHhpNzG8h0c4.webp": "/salla/static/media/u1GwprK5yFRK0UsCdKzY2MWG8nJpRHhpNzG8h0c4.03a39f177531b0b461ce.webp",
+    "static/media/A2Ul4ZQF31sxFYWnAZ1TRYhczO8JI8tff7xrBxiq.webp": "/salla/static/media/A2Ul4ZQF31sxFYWnAZ1TRYhczO8JI8tff7xrBxiq.2a43103d5fb39cf3953c.webp",
+    "static/media/avatar_male.webp": "/salla/static/media/avatar_male.4754924b3413ba05de93.webp",
+    "index.html": "/salla/index.html",
+    "main.921c85c9.css.map": "/salla/static/css/main.921c85c9.css.map",
+    "main.271a0d10.js.map": "/salla/static/js/main.271a0d10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.921c85c9.css",
+    "static/js/main.271a0d10.js"
+  ]
+}
